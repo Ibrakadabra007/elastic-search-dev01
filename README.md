@@ -3,7 +3,8 @@ poc api project for using NEST and ElasticSearch - c# and .NetCore
 
 # ElasticSearchNetCorePOC
 
-This repo contains the source code to demonstrate how to integrate C# applications with elastic searcg using NEST and custom queries.
+This repo contains the source code to demonstrate how to integrate a C# API-application together with an elastic-search service, using NEST and custom queries.
+Basic Search features include creating an Index, searching for keywords, as well as doing advanced searches.
 
 
 ## Execute the sample
