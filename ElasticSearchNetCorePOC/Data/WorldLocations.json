@@ -1,0 +1,56 @@
+{
+  "locations": {
+    "USA": {
+      "Nike": {
+        "business_name": "Nike inc.",
+        "change_date": 1587020400000,
+        "changed_by": "jonathan",
+        "business_location": "portland",
+        "lat": "45.516",
+        "lon": "-122.675"
+      },
+      "Intel": {
+        "business_name": "Intel Corp.",
+        "change_date": 1587020400000,
+        "changed_by": "jonathan",
+        "business_location": "beaverton",
+        "lat": "45.516",
+        "lon": "-122.675"
+      },
+      "REI": {
+        "business_name": "REI Co-op",
+        "change_date": 1587020400000,
+        "changed_by": "jonathan",
+        "business_location": "portland",
+        "lat": "45.516",
+        "lon": "-122.675"
+      },
+      "buoy": {
+        "business_name": "Buoy brewwing Inc.",
+        "change_date": 1587020400000,
+        "changed_by": "jonathan",
+        "business_location": "astoria",
+        "lat": "45.516",
+        "lon": "-122.675"
+      }
+    },
+    "Europe": {
+      "Nike": {
+        "business_name": "Nike",
+        "change_date": 1587023400000,
+        "changed_by": "jonathan",
+        "business_location": "paris",
+        "lat": "48.86",
+        "lon": "2.349014"
+      },
+      "Arla": {
+        "business_name": "Arla Mejeri",
+        "change_date": 1587023400000,
+        "changed_by": "jonathan",
+        "business_location": "copenhagen",
+        "lat": "55.68",
+        "lon": "12.56"
+      }
+    }
+  }
+}
