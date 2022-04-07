@@ -23,7 +23,7 @@ dotnet ElasticSearchTest.dll search -i divinacommediatxt -h http://localhost:930
 
 Screen-shot of sample curl command in cmd-window :
 
-![CMDScreenShot](./images/curl-cmd-elk-sample01.png)
+![CMDScreenShot](./ElasticSearchNetCorePOC/images/curl-cmd-elk-sample01.png)
 
 ## Quick Start Examples
 
