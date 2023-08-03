@@ -11,13 +11,11 @@ Basic Search features include creating an Index, searching for keywords, as well
 
 ```sh
 
-dotnet ElasticSearchTest.dll create -f divina_commedia.txt -h http://localhost:9300
-> Index created in 30338ms with 14006 element.
+dotnet ElasticSearchTest.dll create -f businesses.txt -h https://localhost:9200
+> Index created in 2338ms with 140 element.
 
-dotnet ElasticSearchTest.dll search -i divinacommediatxt -h http://localhost:9300 -q "dante AND virgi*"
-> Searching for $dante AND virgi*
-> "Dante, perché Virgilio se ne vada,
-> "Dante, perché Virgilio se ne vada,
+dotnet ElasticSearchTest.dll search -i businesses -h https://localhost:9200 -q "REI AND nwa"
+> Searching for $REI AND nwa*
 
 ```
 
